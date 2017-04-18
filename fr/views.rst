@@ -75,12 +75,10 @@ navigateurs, mais vous pourriez aussi avoir besoin de fournir des données AMF
 à un objet Flash, répondre à une application distante via SOAP ou produire un
 fichier CSV pour un utilisateur.
 
-CakePHP template files have a default extension of **.ctp** (CakePHP Template)
-and utilize the `alternative PHP syntax
+Les fichiers template de cakePHP utilisent par défaut l'extension **.ctp** (CakePHP Template)
+et utilisent la `syntaxe PHP alternative
 <http://php.net/manual/en/control-structures.alternative-syntax.php>`_
-for control structures and output. These files contain the logic necessary to
-prepare the data received from the controller into a presentation format that is
-ready for your audience.
+pour les structures de contrôle et les sorties. Ces fichiers contiennent la logique nécessaire à la préparation des données reçues du controller en un format de présentation qui est adapté pour votre public.
 
 Alternative Echos
 -----------------
